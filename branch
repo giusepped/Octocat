@@ -1,1 +1,4 @@
-Explain what a branch is, in your own words
+A branch is a repository you can create as a copy of the repository you are working on. It will have all the files
+and the commits that the Master repository has until the moment you created the branch. From that moment onwards,
+you can work separately on the Master and on the branch and the changes made on one will not affect the other, unless
+you decide to merge or rebase.
