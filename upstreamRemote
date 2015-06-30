@@ -1,1 +1,6 @@
-Explain what the "upstream" remote is usually used for, in your own words
+The "upstream" remote is usually used when you want to contribute to a project. After you clone a repo and connect it to 
+github, by default it will have an origin that points to your github repo. So it will not point to the original 
+repository of the project you want to contribute to. In order to keep track of the original repository of the project
+you can add another remote called "upstream" like this:
+
+git remote add upstream git://github.com/user/repo.git
