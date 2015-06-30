@@ -1,1 +1,4 @@
-Explain what git clone does, in your own words
+Git clone creates an exact copy of a remote (or local) repository that has all the files
+and the commits of the original repository.Once this clone is created, we can think of it 
+as a parallel world where we can make any changes without affecting the original repository
+in any way.
